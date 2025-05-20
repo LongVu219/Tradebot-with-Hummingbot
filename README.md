@@ -29,7 +29,7 @@ start --script ml_signal_listener.py --config ml_signal_listener_config.yml
 
 ## File description
 
-There are couple of file that contain majority of our demo : <br> 
+There are couple of files that contain majority of our demo : <br> 
 **0_download_candles.ipynb** : this notebook describe our data pulling progress for our AI model. <br>
 **1_feature_engineering.ipynb** : this notebook describe how we process our data or add certain indicators. <br>
 **2_modelling.ipynb** : this notebook describe how we train our AI model (xgboost, neural net, transformer,....) and its result. <br>
