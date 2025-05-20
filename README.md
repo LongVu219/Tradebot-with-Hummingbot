@@ -32,7 +32,7 @@ start --script ml_signal_listener.py --config ml_signal_listener_config.yml
 There are couple of file that contain majority of our demo : <br> 
 **0_download_candles.ipynb** : this notebook describe our data pulling progress for our AI model. <br>
 **1_feature_engineering.ipynb** : this notebook describe how we process our data or add certain indicators. <br>
-**2_modelling.ipynb** : this notebook describe how we train our AI model (xgboost, neural net, transformer,....) annd its result. <br>
+**2_modelling.ipynb** : this notebook describe how we train our AI model (xgboost, neural net, transformer,....) and its result. <br>
 **prediction_service.py** : this code show how we use our trained model to predict newest data. <br>
 **ml_signal_listener.py** : this code demonstrate how we send signal from prediction service to our hummingbot bot. <br>
 
