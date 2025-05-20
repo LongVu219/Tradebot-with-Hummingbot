@@ -15,7 +15,7 @@ First run this command :
 cd research_notebooks/bitcoinenaitor
 ``` 
 
-Follow [this link]([https://example.com](https://hummingbot.org/installation/docker/)) to install Hummingbot via docker, then start hummingbot bot and run this script on current terminal : 
+Follow [this link](https://hummingbot.org/installation/docker/) to install Hummingbot via docker, then start hummingbot bot and run this script on current terminal : 
 ``` 
 python prediction_service.py
 ``` 
